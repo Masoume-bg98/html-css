@@ -1,0 +1,52 @@
+.A{ position: relative;
+  background-color:hsl(204, 43%, 93%);
+  color: white;
+  border: 2px solid rgb hsl(204, 43%, 93%);
+  margin-left:300px;
+  padding-left:40px;
+  width: 839px;
+height: 340px;
+   
+}
+/* یه دیو دیگه درست میکنیم */
+
+.B{ background-color:hsl(179, 62%, 43%);
+  float: left;
+margin-left: 300px;
+padding-left: 40px;
+width:400px;
+height: 350px;
+
+}
+/* یه دیو دیگه درست کردم */
+
+.C{
+float: left;
+  background-color:hsl(170, 60%, 43%);
+  margin-bottom: 800px;
+  padding-left: 40px;
+  width: 400px;
+  height: 350px;
+  
+}
+button{
+border-radius: 12px;
+  border: none;
+ background-color: hsl(71, 73%, 54%);
+ color:  hsl(204, 43%, 93%);
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  width: 250px;
+  font-size: 23px;
+  margin: 10px 60px;
+  cursor: pointer;
+}
+span{
+  font-size: small;
+}
+h1{
+position: relative;
+  top: 40px;
+}
